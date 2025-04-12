@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Vikas P</h1>
+<h1 align="center">Hi there 👋 I'm Vikas</h1>
 
 <p align="center">
   Full-Stack Developer ⚡ | Mobile App Enthusiast 📱
